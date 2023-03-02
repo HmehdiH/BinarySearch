@@ -1,0 +1,68 @@
+Binary search
+=============
+
+**Question**
+How many comparisons does firstIndexOf use at most for an array of:
+a) 10 elements?
+answer: lg n (log2 n) =  lg 10 (log2 10) = 1 (3,322) = 3,322 ≃ 4 worst case
+
+b) 100 elements?
+answer: lg 100 (log2 100) = 2 (6.644) = 13,288 ≃ 14 worst case
+
+c) 1,000 elements?
+answer: lg 1000 (log2 1000) = 2.9999999999999996 (9.966) = 29,898 ≃ 30 worst case 
+
+d) 1,000,000 elements?
+answer: lg 1000000 (log2 1000000) = 5.999999999999999 (19.93) = 119,58 ≃ 120 worst case
+
+Hint: You can count the comparisons using a debugger to step through your program line-by-line.
+
+TODO
+
+**Question**
+How many comparisons would firstIndexOf need for 1,000,000,000,000 elements?
+(This is way too big for your computer's memory!)
+Justify your answer.
+
+answer = lg 1000000000000 (log2 1000000000000) = 11.999999999999998 (39.86) = 478,32 ≃ 479 worst case
+
+TODO
+
+Appendix: general information
+=============================
+
+**Question**
+How many hours did you spend on the assignment?
+14-16 hours 
+
+TODO
+
+**Questions**
+Which of the three spoilers did you use?
+all of the three spoilers 
+
+TODO
+
+**Question**
+Do you know of any bugs or limitations?
+No 
+
+TODO
+
+**Question**
+Did you collaborate with any other students on this lab?
+If so, write with whom and in what way you collaborated.
+Also list any resources (including the web) you have used in creating your design.
+No i did it at home and all resourses are the main book for the course and the old videos + the Repitation part about recursive functions 
+
+TODO
+
+**Question**
+Did you encounter any serious problems?
+both yes and no, there is a fine map to follow in Modules. 
+TODO
+
+**Question**
+What is your feedback on this assignment?
+Cool and somthing new
+TODO
